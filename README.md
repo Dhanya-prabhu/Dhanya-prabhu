@@ -27,8 +27,15 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhanya-prabhu&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanya-prabhu&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanya-prabhu&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhanya's GitHub stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanya-prabhu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanya-prabhu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanya-prabhu&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="55%">
+</p>
 
 ---
 ## 🤝 Connect With Me
