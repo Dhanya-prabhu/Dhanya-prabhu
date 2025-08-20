@@ -34,7 +34,7 @@
 ## 🤝 Connect With Me
 - 📧 Email: [dhanyaprabhu23@gmail.com](mailto:dhanyaprabhu23@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/dhanya-prabhu-315a2a339](https://www.linkedin.com/in/dhanya-prabhu-315a2a339)
-- 🌐 GitHub: [github.com/Anna-Simmi](https://github.com/Anna-Simmi)  
+- 🌐 GitHub: [github.com/Dhanya-prabhu](https://github.com/Dhanya-prabhu)
 
 ---
-⭐ From [Anna-Simmi](https://github.com/Anna-Simmi)
+⭐ From [Anna-Simmi](https://github.com/Dhanya-prabhu)
