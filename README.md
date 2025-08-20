@@ -37,4 +37,4 @@
 - 🌐 GitHub: [github.com/Dhanya-prabhu](https://github.com/Dhanya-prabhu)
 
 ---
-⭐ From [Anna-Simmi](https://github.com/Dhanya-prabhu)
+⭐ From [Dhanya Prabhu](https://github.com/Dhanya-prabhu)
